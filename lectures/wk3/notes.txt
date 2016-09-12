@@ -1,0 +1,25 @@
+Week 03
+
+Monday
+------
+No class Monday 
+
+Wednesday
+---------
+Last pure Html lecture, more tags taught throughout course
+Structure vs style
+DOM: Document object model : Html, head, body
+  Can traverse DOM for design, creting a nav bar e.g.
+Start thinking about how to style the page, layout
+Use tags for their intention, just like software classes
+Block-level vs. inline
+Character entities &<>;
+  Display unicode needs #
+  Some symbols/characters can be specified by an acronym/shortcut
+<code> tag
+Tip: Closing comment at end of div
+Tip: A table is a table if you switcht the columns & meaning changes
+No display code in HTML (fonts/colors)
+Resize image befoore uploading to HTML, don't use tag elements
+
+div tag is a container for other elements

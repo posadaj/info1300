@@ -1,0 +1,51 @@
+Assignment 2: Advanced HTML
+INFO/CS 1300
+Fall 2016
+
+
+_____ (2) Banner div
+
+    _____ (1) Present and ID'd correctly
+
+    _____ (1) Uses h1 element
+
+_____ (8) Nav bar
+
+    _____ (1) Uses a div
+
+    _____ (1) Div has nav_bar as ID
+
+    _____ (3) Uses unordered list
+
+    _____ (1) List surrounded by nav_bar div
+
+    _____ (1) List has a href link
+
+    _____ (1) List has a target link
+
+_____ (4) Main content
+
+    _____ (1) Surrounded by a div with an ID
+
+    _____ (1) Contains at least two spans, each with a ID or class
+
+    _____ (2) Two images
+
+    _____ (1) Some content in paragraph element
+
+_____ (8) General
+
+    _____ (3) Validates (all or nothing)
+    
+    _____ (1) Code is well-formatted (indentation, etc.)
+    
+    _____ (1) No formatting or styling in HTML
+
+    _____ (1) All IDs are unique
+
+    _____ (1) IDs and class names are descriptive
+
+    _____ (1) Files named correctly, in correct directory
+
+
+_____ (22) Total
