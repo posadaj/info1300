@@ -1,0 +1,5 @@
+Week 04
+
+Monday
+------
+Don't pull from production server

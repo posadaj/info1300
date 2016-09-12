@@ -1,0 +1,68 @@
+Assignment 1: Basic HTML and File Management
+INFO/CS 1300
+Fall 2016
+
+File 1:
+
+_____ (1) div
+
+_____ (1) p
+
+_____ (2) img
+    
+    _____ (1) image present
+
+    _____ (1) image in images subdirectory
+
+_____ (1) ul
+
+_____ (1) a
+
+_____ (1) file correctly named (index.html)
+
+_____ (1) file in assignment01 directory
+
+_____ (3) valid (graded all or nothing)
+
+_____ (11) Total for File 1
+
+
+
+File 2:
+
+_____ (1) div
+
+_____ (1) p
+
+_____ (2) img
+    
+    _____ (1) image present
+
+    _____ (1) image in images subdirectory
+
+_____ (1) ul
+
+_____ (1) a
+
+_____ (1) file in assignment01 directory
+
+_____ (3) valid (graded all or nothing)
+
+_____ (10) Total for File 2
+
+
+
+Repository:
+
+_____ (1) repo.txt present and named correctly
+
+_____ (1) correct URL
+
+_____ (1) code present in online repository (Bitbucket, etc.)
+
+_____ (3) Total for Repository
+
+
+
+_____ (24) Total for assignment
+
